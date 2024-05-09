@@ -27,7 +27,7 @@ const workerConfig = {
       // `target` is a valid URL
       target: 'https://api.yuzhongxunfeng.cn',
       // [OPTIONAL] `tooltip` is ONLY used at status page to show a tooltip
-      // tooltip: 'This is a tooltip for this monitor',
+      tooltip: 'API',
       // [OPTIONAL] `statusPageLink` is ONLY used for clickable link at status page
       statusPageLink: 'https://api.yuzhongxunfeng.cn',
       // [OPTIONAL] `expectedCodes` is an array of acceptable HTTP response codes, if not specified, default to 2xx
@@ -57,7 +57,7 @@ const workerConfig = {
       // `target` is a valid URL
       target: 'https://tv.yuzhongxunfeng.cn',
       // [OPTIONAL] `tooltip` is ONLY used at status page to show a tooltip
-      // tooltip: 'This is a tooltip for this monitor',
+      tooltip: 'TV',
       // [OPTIONAL] `statusPageLink` is ONLY used for clickable link at status page
       statusPageLink: 'https://tv.yuzhongxunfeng.cn',
       // [OPTIONAL] `expectedCodes` is an array of acceptable HTTP response codes, if not specified, default to 2xx
@@ -87,7 +87,7 @@ const workerConfig = {
       // `target` is a valid URL
       target: 'https://alist.yuzhongxunfeng.cn',
       // [OPTIONAL] `tooltip` is ONLY used at status page to show a tooltip
-      // tooltip: 'This is a tooltip for this monitor',
+      tooltip: 'Alist',
       // [OPTIONAL] `statusPageLink` is ONLY used for clickable link at status page
       statusPageLink: 'https://alist.yuzhongxunfeng.cn',
       // [OPTIONAL] `expectedCodes` is an array of acceptable HTTP response codes, if not specified, default to 2xx
@@ -117,7 +117,7 @@ const workerConfig = {
       // `target` is a valid URL
       target: 'https://image.yuzhongxunfeng.cn',
       // [OPTIONAL] `tooltip` is ONLY used at status page to show a tooltip
-      // tooltip: 'This is a tooltip for this monitor',
+      tooltip: 'Image',
       // [OPTIONAL] `statusPageLink` is ONLY used for clickable link at status page
       statusPageLink: 'https://image.yuzhongxunfeng.cn',
       // [OPTIONAL] `expectedCodes` is an array of acceptable HTTP response codes, if not specified, default to 2xx
